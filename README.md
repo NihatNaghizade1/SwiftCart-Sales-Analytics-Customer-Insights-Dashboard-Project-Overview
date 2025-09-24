@@ -1,8 +1,5 @@
 📊 SwiftCart Sales Analytics & Customer Insights Dashboard
 
-
-
-
 📌 Overview
 
 An e-commerce analytics project showcasing my ability to analyze sales performance, customer segmentation, and product profitability using Power BI.
@@ -52,13 +49,14 @@ Customers aged 25–34 show the highest spending
 
 🔗 Project Resources
 
-All project files can also be accessed here:
-👉 Google Drive Project Folder
+All project files can also be accessed here: 👉 https://drive.google.com/drive/folders/1sP8YHQkFTCq8Kgal6tzYlXAYWurdmdcj
+
+
 
 📬 Contact
 
 📧 Email: nihatnzade200@gmail.com
 
-🔗 LinkedIn: Nihat Naghizade
+🔗 LinkedIn: https://www.linkedin.com/in/nihat-naghizade-39b47b266/
 
 📱 Phone: +49 176 63255666
