@@ -1,4 +1,8 @@
 📊 SwiftCart Sales Analytics & Customer Insights Dashboard
+
+
+
+
 📌 Overview
 
 An e-commerce analytics project showcasing my ability to analyze sales performance, customer segmentation, and product profitability using Power BI.
